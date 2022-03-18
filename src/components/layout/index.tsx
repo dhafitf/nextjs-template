@@ -1,5 +1,5 @@
 import Head from "next/head";
-import { LayoutProps } from "~/types/components";
+import { LayoutProps } from "~/src/types/components";
 import Footer from "../footer";
 
 export default function Layout(props: LayoutProps) {
