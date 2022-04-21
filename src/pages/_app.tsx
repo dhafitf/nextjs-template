@@ -1,6 +1,6 @@
-import "@styles/globals.css";
+import "~styles/globals.css";
 import type { AppProps } from "next/app";
-import Loading from "@components/layout/loading";
+import Loading from "~components/layout/loading";
 import { useRouter } from "next/router";
 import { useEffect, useState } from "react";
 
